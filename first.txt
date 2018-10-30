@@ -2,3 +2,4 @@ This is my first file...
 
 New line added from CMD or VM for conflict
 
+This line added from github for conflict
