@@ -1,1 +1,4 @@
 new file in feat1 branch from cmd
+
+this line adding from master branch to create conflict
+
